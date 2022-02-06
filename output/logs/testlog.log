@@ -1,0 +1,158 @@
+2022-02-05 11:38:48,774 - logger_File -INFO - Scenario online booking website Started
+2022-02-05 11:39:03,529 - logger_File -INFO - Scenario online booking website UNDEFINED
+2022-02-05 11:55:39,651 - logger_File -INFO - Scenario online booking website Started
+2022-02-05 11:55:44,249 - logger_File -INFO - Scenario online booking website UNDEFINED
+2022-02-05 12:07:56,353 - logger_File -INFO - Scenario online booking website Started
+2022-02-05 12:08:00,467 - logger_File -INFO - Scenario online booking website PASSED
+2022-02-05 12:14:50,105 - logger_File -INFO - Scenario online booking website Started
+2022-02-05 12:14:54,787 - logger_File -INFO - Scenario online booking website PASSED
+2022-02-05 12:15:57,081 - logger_File -INFO - Scenario online booking website Started
+2022-02-05 12:16:01,343 - logger_File -INFO - Scenario online booking website PASSED
+2022-02-05 12:26:48,859 - logger_File -INFO - Scenario online booking website Started
+2022-02-05 12:26:57,221 - logger_File -INFO - Scenario online booking website PASSED
+2022-02-05 12:27:35,668 - logger_File -INFO - Scenario online booking website Started
+2022-02-05 12:27:39,731 - logger_File -INFO - Scenario online booking website PASSED
+2022-02-05 13:37:01,465 - logger_File -INFO - Scenario online booking website Started
+2022-02-05 13:37:13,930 - logger_File -INFO - Scenario online booking website PASSED
+2022-02-05 13:39:40,148 - logger_File -INFO - Scenario online booking website Started
+2022-02-05 13:39:52,289 - logger_File -INFO - Scenario online booking website PASSED
+2022-02-05 14:07:52,392 - logger_File -INFO - Scenario online booking website Started
+2022-02-05 14:07:57,818 - logger_File -INFO - user is on the homepage of the website
+2022-02-05 14:07:59,485 - logger_File -INFO - user clicked on book appointment button
+2022-02-05 14:08:00,403 - logger_File -INFO - user clicked on I am paying myself button
+2022-02-05 14:08:03,165 - logger_File -INFO - user selected appointment date in two days
+2022-02-05 14:08:04,746 - logger_File -INFO - user selected and clicked book for a doctor having more than 4.6 rating
+2022-02-05 14:08:06,088 - logger_File -INFO - user sees the create profile page
+2022-02-05 14:08:06,091 - logger_File -INFO - Scenario online booking website PASSED
+2022-02-05 14:24:40,021 - logger_File -INFO - Scenario online booking website Started
+2022-02-05 14:24:44,512 - logger_File -INFO - user is on the homepage of the website
+2022-02-05 14:24:46,370 - logger_File -INFO - user clicked on book appointment button
+2022-02-05 14:24:47,335 - logger_File -INFO - user clicked on I am paying myself button
+2022-02-05 14:24:49,853 - logger_File -INFO - user selected appointment date in two days
+2022-02-05 14:24:50,701 - logger_File -INFO - user selected and clicked book for a doctor having more than 4.6 rating
+2022-02-05 14:24:52,339 - logger_File -INFO - user sees the create profile page
+2022-02-05 14:24:52,555 - logger_File -INFO - Scenario online booking website PASSED
+2022-02-05 14:29:10,075 - logger_File -INFO - Scenario online booking website Started
+2022-02-05 14:29:15,444 - logger_File -INFO - user is on the homepage of the website
+2022-02-05 14:29:16,812 - logger_File -INFO - user clicked on book appointment button
+2022-02-05 14:29:17,896 - logger_File -INFO - user clicked on I am paying myself button
+2022-02-05 14:29:20,464 - logger_File -INFO - user selected appointment date in two days
+2022-02-05 14:29:21,500 - logger_File -INFO - user selected and clicked book for a doctor having more than 4.6 rating
+2022-02-05 14:29:23,048 - logger_File -INFO - user sees the create profile page
+2022-02-05 14:29:23,283 - logger_File -INFO - Scenario online booking website PASSED
+2022-02-05 14:35:07,412 - logger_File -INFO - Scenario online booking website Started
+2022-02-05 14:35:11,976 - logger_File -INFO - user is on the homepage of the website
+2022-02-05 14:35:13,626 - logger_File -INFO - user clicked on book appointment button
+2022-02-05 14:35:14,482 - logger_File -INFO - user clicked on I am paying myself button
+2022-02-05 14:35:16,496 - logger_File -INFO - user selected appointment date in two days
+2022-02-05 14:35:17,389 - logger_File -INFO - user selected and clicked book for a doctor having more than 4.6 rating
+2022-02-05 14:35:18,273 - logger_File -INFO - user sees the create profile page
+2022-02-05 14:35:18,477 - logger_File -INFO - Scenario online booking website PASSED
+2022-02-05 14:35:47,378 - logger_File -INFO - Scenario online booking website Started
+2022-02-05 14:35:52,339 - logger_File -INFO - user is on the homepage of the website
+2022-02-05 14:35:53,611 - logger_File -INFO - user clicked on book appointment button
+2022-02-05 14:35:54,615 - logger_File -INFO - user clicked on I am paying myself button
+2022-02-05 14:35:56,934 - logger_File -INFO - user selected appointment date in two days
+2022-02-05 14:35:57,844 - logger_File -INFO - user selected and clicked book for a doctor having more than 4.6 rating
+2022-02-05 14:35:58,721 - logger_File -INFO - user sees the create profile page
+2022-02-05 14:35:58,943 - logger_File -INFO - Scenario online booking website PASSED
+2022-02-05 14:39:24,105 - logger_File -INFO - Scenario online booking website Started
+2022-02-05 14:39:28,614 - logger_File -INFO - user is on the homepage of the website
+2022-02-05 14:39:29,909 - logger_File -INFO - user clicked on book appointment button
+2022-02-05 14:39:30,996 - logger_File -INFO - user clicked on I am paying myself button
+2022-02-05 14:39:33,403 - logger_File -INFO - user selected appointment date in two days
+2022-02-05 14:39:34,423 - logger_File -INFO - user selected and clicked book for a doctor having more than 4.6 rating
+2022-02-05 14:39:35,983 - logger_File -INFO - user sees the create profile page
+2022-02-05 14:39:36,218 - logger_File -INFO - Scenario online booking website PASSED
+2022-02-05 16:31:15,095 - logger_File -INFO - Scenario online booking website Started
+2022-02-05 16:31:19,976 - logger_File -INFO - user is on the homepage of the website
+2022-02-05 16:31:21,479 - logger_File -INFO - user clicked on book appointment button
+2022-02-05 16:31:22,743 - logger_File -INFO - user clicked on I am paying myself button
+2022-02-05 16:31:25,219 - logger_File -INFO - user selected appointment date in two days
+2022-02-05 16:31:26,184 - logger_File -INFO - user selected and clicked book for a doctor having more than 4.6 rating
+2022-02-05 16:31:27,744 - logger_File -INFO - user sees the create profile page
+2022-02-05 16:31:27,963 - logger_File -INFO - Scenario online booking website PASSED
+2022-02-05 16:49:00,516 - logger_File -INFO - Scenario online booking website Started
+2022-02-05 16:49:06,645 - logger_File -INFO - user is on the homepage of the website
+2022-02-05 16:49:08,030 - logger_File -INFO - user clicked on book appointment button
+2022-02-05 16:49:09,087 - logger_File -INFO - user clicked on I am paying myself button
+2022-02-05 16:49:11,836 - logger_File -INFO - user selected appointment date in two days
+2022-02-05 16:49:12,918 - logger_File -INFO - user selected and clicked book for a doctor having more than 4.6 rating
+2022-02-05 16:49:14,104 - logger_File -INFO - user sees the create profile page
+2022-02-05 16:49:14,288 - logger_File -INFO - Scenario online booking website PASSED
+2022-02-05 17:07:29,249 - logger_File -INFO - Scenario online booking website Started
+2022-02-05 17:07:33,760 - logger_File -INFO - user is on the homepage of the website
+2022-02-05 17:07:35,268 - logger_File -INFO - user clicked on book appointment button
+2022-02-05 17:07:36,499 - logger_File -INFO - user clicked on I am paying myself button
+2022-02-05 17:07:44,686 - logger_File -INFO - Scenario online booking website FAILED
+2022-02-05 17:10:07,831 - logger_File -INFO - Scenario online booking website Started
+2022-02-05 17:10:12,118 - logger_File -INFO - user is on the homepage of the website
+2022-02-05 17:10:13,549 - logger_File -INFO - user clicked on book appointment button
+2022-02-05 17:10:14,668 - logger_File -INFO - user clicked on I am paying myself button
+2022-02-05 17:10:47,159 - logger_File -INFO - Scenario online booking website FAILED
+2022-02-05 17:14:06,943 - logger_File -INFO - Scenario online booking website Started
+2022-02-05 17:14:12,138 - logger_File -INFO - user is on the homepage of the website
+2022-02-05 17:14:13,338 - logger_File -INFO - user clicked on book appointment button
+2022-02-05 17:14:14,546 - logger_File -INFO - user clicked on I am paying myself button
+2022-02-05 17:14:31,393 - logger_File -INFO - Scenario online booking website FAILED
+2022-02-05 17:15:35,728 - logger_File -INFO - Scenario online booking website Started
+2022-02-05 17:15:40,113 - logger_File -INFO - user is on the homepage of the website
+2022-02-05 17:15:41,448 - logger_File -INFO - user clicked on book appointment button
+2022-02-05 17:15:42,437 - logger_File -INFO - user clicked on I am paying myself button
+2022-02-05 17:15:45,132 - logger_File -INFO - user selected appointment date in two days
+2022-02-05 17:15:47,560 - logger_File -INFO - user selected and clicked book for a doctor having more than 4.6 rating
+2022-02-05 17:15:48,396 - logger_File -INFO - user sees the create profile page
+2022-02-05 17:15:48,614 - logger_File -INFO - Scenario online booking website PASSED
+2022-02-06 10:38:37,919 - logger_File -INFO - Scenario online booking website Started
+2022-02-06 10:38:42,646 - logger_File -INFO - user is on the homepage of the website
+2022-02-06 10:38:43,971 - logger_File -INFO - user clicked on book appointment button
+2022-02-06 10:38:45,063 - logger_File -INFO - user clicked on I am paying myself button
+2022-02-06 10:38:47,119 - logger_File -INFO - user selected appointment date in two days
+2022-02-06 10:38:47,752 - logger_File -INFO - user selected and clicked book for a doctor having more than 4.6 rating
+2022-02-06 10:38:49,232 - logger_File -INFO - user sees the create profile page
+2022-02-06 10:38:49,502 - logger_File -INFO - Scenario online booking website PASSED
+2022-02-06 10:39:35,381 - logger_File -INFO - Scenario online booking website Started
+2022-02-06 10:39:39,654 - logger_File -INFO - user is on the homepage of the website
+2022-02-06 10:39:40,668 - logger_File -INFO - user clicked on book appointment button
+2022-02-06 10:39:41,116 - logger_File -INFO - user clicked on I am paying myself button
+2022-02-06 10:40:11,093 - logger_File -INFO - Scenario online booking website FAILED
+2022-02-06 10:40:18,622 - logger_File -INFO - Scenario online booking website Started
+2022-02-06 10:40:22,938 - logger_File -INFO - user is on the homepage of the website
+2022-02-06 10:40:24,063 - logger_File -INFO - user clicked on book appointment button
+2022-02-06 10:40:24,807 - logger_File -INFO - user clicked on I am paying myself button
+2022-02-06 10:40:26,491 - logger_File -INFO - user selected appointment date in two days
+2022-02-06 10:40:26,968 - logger_File -INFO - user selected and clicked book for a doctor having more than 4.6 rating
+2022-02-06 10:40:28,002 - logger_File -INFO - user sees the create profile page
+2022-02-06 10:40:28,206 - logger_File -INFO - Scenario online booking website PASSED
+2022-02-06 10:47:51,487 - logger_File -INFO - Scenario online booking website Started
+2022-02-06 10:47:55,936 - logger_File -INFO - user is on the homepage of the website
+2022-02-06 10:47:57,208 - logger_File -INFO - user clicked on book appointment button
+2022-02-06 10:47:58,796 - logger_File -INFO - user clicked on I am paying myself button
+2022-02-06 10:48:01,015 - logger_File -INFO - user selected appointment date in two days
+2022-02-06 10:48:01,573 - logger_File -INFO - user selected and clicked book for a doctor having more than 4.6 rating
+2022-02-06 10:48:02,385 - logger_File -INFO - user sees the create profile page
+2022-02-06 10:48:02,559 - logger_File -INFO - Scenario online booking website PASSED
+2022-02-06 11:22:36,809 - logger_File -INFO - Scenario online booking website Started
+2022-02-06 11:22:43,734 - logger_File -INFO - user is on the homepage of the website
+2022-02-06 11:22:46,196 - logger_File -INFO - user clicked on book appointment button
+2022-02-06 11:22:47,796 - logger_File -INFO - user clicked on I am paying myself button
+2022-02-06 11:22:53,593 - logger_File -INFO - user selected appointment date in two days
+2022-02-06 11:22:54,756 - logger_File -INFO - user selected and clicked book for a doctor having more than 4.6 rating
+2022-02-06 11:22:56,200 - logger_File -INFO - user sees the create profile page
+2022-02-06 11:22:56,524 - logger_File -INFO - Scenario online booking website PASSED
+2022-02-06 11:23:57,352 - logger_File -INFO - Scenario online booking website Started
+2022-02-06 11:24:07,799 - logger_File -INFO - user is on the homepage of the website
+2022-02-06 11:24:10,206 - logger_File -INFO - user clicked on book appointment button
+2022-02-06 11:24:12,083 - logger_File -INFO - user clicked on I am paying myself button
+2022-02-06 11:24:15,726 - logger_File -INFO - user selected appointment date in two days
+2022-02-06 11:24:17,540 - logger_File -INFO - user selected and clicked book for a doctor having more than 4.6 rating
+2022-02-06 11:24:18,567 - logger_File -INFO - user sees the create profile page
+2022-02-06 11:24:18,783 - logger_File -INFO - Scenario online booking website PASSED
+2022-02-06 11:24:30,222 - logger_File -INFO - Scenario online booking website Started
+2022-02-06 11:24:36,796 - logger_File -INFO - user is on the homepage of the website
+2022-02-06 11:24:38,450 - logger_File -INFO - user clicked on book appointment button
+2022-02-06 11:24:40,311 - logger_File -INFO - user clicked on I am paying myself button
+2022-02-06 11:24:43,989 - logger_File -INFO - user selected appointment date in two days
+2022-02-06 11:24:45,326 - logger_File -INFO - user selected and clicked book for a doctor having more than 4.6 rating
+2022-02-06 11:24:46,103 - logger_File -INFO - user sees the create profile page
+2022-02-06 11:24:46,310 - logger_File -INFO - Scenario online booking website PASSED
