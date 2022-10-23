@@ -37,7 +37,7 @@ public class Base {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		logger = logger.getLogger("logger_File");
+		logger = Logger.getLogger("logger_File");
 		PropertyConfigurator.configure(log4JPath);
 	}
 		
